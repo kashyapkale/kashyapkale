@@ -16,7 +16,7 @@ I'm currently focusing on improving my skills in Artificial Intelligence. Always
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kashyapmkale/)
-- [Twitter](https://twitter.com/kashyapmkale)
+- [Twitter](https://twitter.com/kashyap_ai)
 Feel free to reach out if you want to collaborate on something cool or just chat about tech and life! 😊
 
 ## 📊 GitHub Stats
