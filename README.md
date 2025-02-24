@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kashyap Kale.
 
-![Profile Banner](url-to-your-banner-image)
+![Profile Banner](https://drive.google.com/file/d/1rtfCg67JmMNJ7LtOCZbzbeho0qp_sMjQ/view?usp=drivesdk)
 
 I'm passionate about Software Engineering, Artificial Intelligence and Machine Learning, and I love to watch cricket and read about finance. 
 ## 🔧 Technologies & Tools
