@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm Kashyap Kale.
+# Hi there! 👋 I'm Kashyap Kale, Currently pursuing Masters of Engineering in Computer Science from Virginia Tech.
 
 ![Profile Banner](IMG_5572.png)
 
-I'm passionate about Software Engineering, Artificial Intelligence and Machine Learning, and I love to watch cricket and read about finance. 
+I'm a passionate generalist fullstack software engineer. Be it Software Engineering, building AI agents or researching ML algorithms, I can get the job done. 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, GoLang, C++, Python
-- **Frameworks:** SpringBoot, React, Flask
+- **Languages:** Java, C++, Typescript, Python
+- **Frameworks:** SpringBoot, ReactJS, React.Native, Flask
 - **Tools:** Intellij, VSCode, AWS
 
 ## 🌱 Currently Learning
@@ -23,7 +23,6 @@ Feel free to reach out if you want to collaborate on something cool or just chat
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashyapkale&show_icons=true&theme=radical)
 
-- ...
 
 Thanks for stopping by! 😄
 
