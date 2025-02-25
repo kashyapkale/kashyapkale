@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Kashyap Kale, Currently pursuing Masters of Engineering in Computer Science from Virginia Tech.
+# Hi there! 👋 I'm Kashyap Kale. 
+## (MEng CS @ VT)
 
 ![Profile Banner](IMG_5572.png)
 
