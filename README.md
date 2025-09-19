@@ -9,6 +9,7 @@ Be it Software Engineering, building AI agents or researching ML algorithms, I c
 
 - **Languages:** Java, C++, Typescript, Python
 - **Frameworks:** SpringBoot, ReactJS, React.Native, Flask
+- **AI:** Claude Code, Cursor, OpenAI APIs, AWS Bedrock
 - **Tools:** Intellij, VSCode, AWS
 
 ## 🌱 Currently Learning
