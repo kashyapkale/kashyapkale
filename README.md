@@ -27,8 +27,7 @@ Feel free to reach out if you want to collaborate on something cool or just chat
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashyapkale&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkale&layout=compact&theme=radical&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkale&hide=html,css)
 
 
 Thanks for stopping by! 😄
