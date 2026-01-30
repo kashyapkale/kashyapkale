@@ -25,10 +25,6 @@ I'm currently focusing on improving my skills in Artificial Intelligence. Always
 - [Twitter](https://twitter.com/kashyap_ai)
 Feel free to reach out if you want to collaborate on something cool or just chat about tech and life! 😊
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkale&hide=html,css,dart)
-
 
 Thanks for stopping by! 😄
 
