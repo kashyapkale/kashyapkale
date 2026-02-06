@@ -42,43 +42,6 @@ Whether it’s **shipping production systems**, **building AI agents**, or **dig
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
----
-
-### 🧠 Backend, Systems & Architecture
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-2E3440?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-4C566A?style=for-the-badge)
-![Concurrency](https://img.shields.io/badge/Concurrency-5E81AC?style=for-the-badge)
-![Memory Management](https://img.shields.io/badge/Memory_Management-81A1C1?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-88C0D0?style=for-the-badge)
-![Event--Driven](https://img.shields.io/badge/Event_Driven-8FBCBB?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge)
-
----
-
-### 📡 Messaging & Streaming
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub_Sub-FF6F00?style=for-the-badge)
-![Message Queues](https://img.shields.io/badge/Message_Queues-6A5ACD?style=for-the-badge)
-
----
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FF9900?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Query Optimization](https://img.shields.io/badge/Query_Optimization-2ECC71?style=for-the-badge)
-
----
-
 ### 🤖 AI Engineering & Tooling
 ![RAG](https://img.shields.io/badge/RAG-6F42C1?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-8E44AD?style=for-the-badge)
@@ -87,15 +50,6 @@ Whether it’s **shipping production systems**, **building AI agents**, or **dig
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge)
-
----
-
-### 🧩 System Design Principles
-![Scalability](https://img.shields.io/badge/Scalability-1ABC9C?style=for-the-badge)
-![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance-E74C3C?style=for-the-badge)
-![Idempotency](https://img.shields.io/badge/Idempotency-F39C12?style=for-the-badge)
-![Caching](https://img.shields.io/badge/Caching-3498DB?style=for-the-badge)
-![Data Consistency](https://img.shields.io/badge/Data_Consistency-9B59B6?style=for-the-badge)
 
 ---
 
