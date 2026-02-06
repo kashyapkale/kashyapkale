@@ -108,7 +108,19 @@ Whether it’s **shipping production systems**, **building AI agents**, or **dig
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashyapkale&theme=github_dark" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashyapkale&theme=github_dark" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kashyapkale&theme=github_dark" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kashyapkale&theme=github_dark&utcOffset=-8" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyapkale&theme=github-compact&hide_border=true" />
+</p>
+
+> 🟢 **Lifetime GitHub Contributions:** Visualized above via the full contribution graph  
+> (Includes commits, PRs, and public activity across all years)
 
 ---
 
