@@ -93,7 +93,7 @@ Whether it’s **shipping production systems**, **building AI agents**, or **dig
   Built backend services processing **200K+ items/month**, designed fault-tolerant callback orchestration and quality pipelines.
 
 - **Tray (Cloud POS Platform)**  
-  Led reliability & performance improvements, reducing infra cost by **$50K+/month** and stabilizing production systems under peak load.
+  Led reliability & performance improvements, reducing infra cost by **20%** and stabilizing production systems under peak load.
 
 - **AI Teaching Assistant (Virginia Tech)**  
   Designed an end-to-end AI assistant with **hybrid search, re-ranking, RBAC, and responsible AI guardrails**.
